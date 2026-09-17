@@ -1,0 +1,2 @@
+101,Aman Sharma,aman.sharma@vitstudent.ac.in,B.Tech AI-ML,9.05
+1234,Shekhar Tomar,shekhar.25bai11013@vitbhopal.ac.in,Btech CSE aiml,8.63
